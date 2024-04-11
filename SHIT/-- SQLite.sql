@@ -1,0 +1,2 @@
+-- SQLite
+CREATE stu.DATABASE
