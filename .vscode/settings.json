@@ -7,8 +7,12 @@
         "专业实验-人脸识别签到系统"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-
+    "python.testing.pytestEnabled": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
 
 
 }
